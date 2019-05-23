@@ -4,7 +4,6 @@ import {BrowserRouter, Switch, Route} from 'react-router-dom';
 import List from './List';
 import Checked from './Checked';
 import Unchecked from './Unchecked';
-
 function App() {
     return (
         <div>
